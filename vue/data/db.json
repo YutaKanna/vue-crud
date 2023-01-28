@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "タイトル1",
+      "details": "タイトル1のlorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "タイトル2",
+      "details": "タイトル2のlorem ipsum",
+      "complete": true
+    }
+  ]
+}
